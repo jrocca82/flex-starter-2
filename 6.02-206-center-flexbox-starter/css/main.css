@@ -97,7 +97,7 @@ textarea {
 
 /*Large Background Image*/
 html {
-    background: url(../img/bkgd2.jpg) no-repeat center center fixed;
+    background: url(../img/sunflowers.jpg) no-repeat;
     background-size: cover;
    height: 100%;
 }
@@ -119,21 +119,21 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background: #222;
-    background:rgba(0,0,0,0.7);
+    background: #2596be;
+    background:rgb(37, 150, 190);
     color: #fff;
-    font-family: 'Source Sans Pro', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     font-weight: 300;
     font-size: 1.25em;
     line-height: 1.5em;
     border-radius: 10px;
     padding: 0px 30px;
     width: 300px;
-    height: 300px;
 }
 
 #content p span {
-    font-family: 'Lora', sans-serif;
+    font-family: 'Satisfy', sans-serif;
+    font-size: 1.5em;
 }
 
 
